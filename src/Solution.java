@@ -2,7 +2,6 @@
 public class Solution {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(convert("PAYPALISHIRING", 3));
 	}
 	public static String convert(String s, int numRows) {
